@@ -1,0 +1,106 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "TS3_DTt6_aw2s0tKW84695TTz7w",
+    "nextPageToken": "EAAajgFQVDpDQVVpRUVWQ056SkVOa0V3UXpJMU5qYzVOMFFvQVVqNS1laWY5WS1EQTFBQldrVWlRMmxLVVZSRVduQmxXRVpaVFVjeE5WTnFTa2hrYTNSUVkwZGpNV0V4UW5walZrcHNaRmRXYjFGWFdqWlZiV1I2UldkM1NXeG1VSFJ4ZDFsUmNVeFhlV2gzU1NJ",
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "hVK25bstAX1Net9V2V6VVRGlUEw",
+        "id": "UEw2aXlxWDBteUoyR3ZLT3BnNWtQc3FSZXVlaEFmelJncy40ODU2MTBGM0M5MkIwQzU0",
+        "snippet": {
+          "publishedAt": "2023-12-11T20:46:59Z",
+          "channelId": "UCwTu6kD2igaLMpxswtcdxlg",
+          "title": "CPI Data Release, Negative Divergences, Semiconductor Power Punch, Stock & Crypto Trades",
+          "description": "Master Trader Gareth Soloway breaks down the charts and macro data like nothing ever available to the public. Usually kept for institutions, Gareth reveals tactics, trade levels and analysis that will blow your mind and make you a BETTER investor/trader. He covers stocks, commodities and crypto and will walk you through everything you need for the day to be a winning trader and investor. The Game Plan rockets past CNBC, Fox Business and Bloomberg in quality and actionable alpha. The show is a quick 15-20 minutes LIVE. Gareth is all about pure charts and data, no emotion. These are the keys to profitable investing and trading. Tune in at 9am ET Monday-Friday or if you can’t make it, be sure to watch the LIVE recording which posts immediately after the show airs! Others are making money and learning valuable trading tactics, don't miss out!\r\n\r\nVerified Game Plan is sponsored by:\n\nLux Algo\nNext-gen trading indicators to help the world see markets smarter.\n👉https://luxalgo.com/?rfsn=7755880.7051dbd\n\r\n🔥 𝗡𝗼𝗿𝗱𝗩𝗣𝗡\r\nYou’re being watched RIGHT NOW and the only way to stop it is by using a VPN. Avoid hacks\r\nand protect your privacy before it’s too late! NordVPN offers 65% Off on a 2-year plan +4 extra\r\nmonths! Try it for 30 days or GET YOUR CASH BACK!\r\n👉 https://nordvpn.com/garethsoloway\r\n\r\n𝗶𝗧𝗿𝘂𝘀𝘁 𝗖𝗮𝗽𝗶𝘁𝗮𝗹 Invest in Bitcoin, Crypto Assets & Gold with Your IRA Using iTrust Capital. \r\n👉 https://bit.ly/itrust-gareth\r\n\r\nServices👇🏼\r\n\r\nNew Course: Real Estate Wealth Systems:  \r\nhttps://www.verifiedinvesting.com/track-rews-gareth\r\n\r\nVerified Crypto Guide: https://www.verifiedinvesting.com/vcg-gameplan\r\n\r\nDay Trade With The Best Traders In The World, LIVE! https://inthemoneystocks.com/stock-market-day-trading-chat-room-investor-alerts/\r\n\r\nStart Swing Trading Stocks For Profit with Verified Investing Alerts\r\nhttps://inthemoneystocks.com/verified-investing-stock-trade-alerts-gareth-soloway/\r\n\r\nGet Our Hand-Picked Crypto Signals\r\nhttps://www.verifiedinvesting.com/vic\r\n\r\nLearn To Trade Like the Pros - Trading Master Class ”The Winning Trader Series”\r\nhttps://www.verifiedinvesting.com/track-master-trader-bundle-gareth\r\n\r\nFollow Gareth👇🏼\r\nTwitter\r\nhttps://twitter.com/GarethSoloway\r\n\r\nInstagram\r\nhttps://www.instagram.com/garethsoloway/\r\n\r\nTikTok\r\nhttps://www.tiktok.com/@verified_investing\r\n\r\nFacebook Page\r\nhttps://www.facebook.com/garethsolowayITMS\r\n\r\nLinkedIn\r\nhttps://www.linkedin.com/in/garethsoloway/\r\n\r\nTradingview\r\nhttps://www.tradingview.com/u/GarethSolowayOfficial/#published-charts\r\n\r\nAffiliates👇🏼\r\nTradingview Sign Up\r\nhttps://www.tradingview.com/?offer_id=10&aff_id=30204\r\n\r\nCoinbase Sign Up\r\nhttps://coinbase-consumer.sjv.io/doP07M\r\n\r\nKitco Metals On The Move\r\nhttps://www.kitco.com/services/metals-on-the-move.html",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qMeeEKrY02Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qMeeEKrY02Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qMeeEKrY02Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qMeeEKrY02Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qMeeEKrY02Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gareth Soloway",
+          "playlistId": "PL6iyqX0myJ2GvKOpg5kPsqReuehAfzRgs",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qMeeEKrY02Q"
+          },
+          "videoOwnerChannelTitle": "Gareth Soloway",
+          "videoOwnerChannelId": "UCwTu6kD2igaLMpxswtcdxlg"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "4tmUT9Kr2lamFSrg2kZjk4cd1X0",
+        "id": "UEw2aXlxWDBteUoyR3ZLT3BnNWtQc3FSZXVlaEFmelJncy44REI4QUZDRDI5MDc4Q0NF",
+        "snippet": {
+          "publishedAt": "2023-12-10T16:31:48Z",
+          "channelId": "UCwTu6kD2igaLMpxswtcdxlg",
+          "title": "Weekly Trade Setups in Stocks, FED Decision, Negative Divergences in Crypto, Market Cycle Update",
+          "description": "Master Trader Gareth Soloway breaks down the charts and macro data like nothing ever available to the public. Usually kept for institutions, Gareth reveals tactics, trade levels and analysis that will blow your mind and make you a BETTER investor/trader. He covers stocks, commodities and crypto and will walk you through everything you need for the day to be a winning trader and investor. The Game Plan rockets past CNBC, Fox Business and Bloomberg in quality and actionable alpha. The show is a quick 15-20 minutes LIVE. Gareth is all about pure charts and data, no emotion. These are the keys to profitable investing and trading. Tune in at 9am ET Monday-Friday or if you can’t make it, be sure to watch the LIVE recording which posts immediately after the show airs! Others are making money and learning valuable trading tactics, don't miss out!\r\n\r\nVerified Game Plan is sponsored by:\n\nLux Algo\nNext-gen trading indicators to help the world see markets smarter.\n👉https://luxalgo.com/?rfsn=7755880.7051dbd\n\r\n🔥 𝗡𝗼𝗿𝗱𝗩𝗣𝗡\r\nYou’re being watched RIGHT NOW and the only way to stop it is by using a VPN. Avoid hacks\r\nand protect your privacy before it’s too late! NordVPN offers 65% Off on a 2-year plan +4 extra\r\nmonths! Try it for 30 days or GET YOUR CASH BACK!\r\n👉 https://nordvpn.com/garethsoloway\r\n\r\n𝗶𝗧𝗿𝘂𝘀𝘁 𝗖𝗮𝗽𝗶𝘁𝗮𝗹 Invest in Bitcoin, Crypto Assets & Gold with Your IRA Using iTrust Capital. \r\n👉 https://bit.ly/itrust-gareth\r\n\r\nServices👇🏼\r\n\r\nNew Course: Real Estate Wealth Systems:  \r\nhttps://www.verifiedinvesting.com/track-rews-gareth\r\n\r\nVerified Crypto Guide: https://www.verifiedinvesting.com/vcg-gameplan\r\n\r\nDay Trade With The Best Traders In The World, LIVE! https://inthemoneystocks.com/stock-market-day-trading-chat-room-investor-alerts/\r\n\r\nStart Swing Trading Stocks For Profit with Verified Investing Alerts\r\nhttps://inthemoneystocks.com/verified-investing-stock-trade-alerts-gareth-soloway/\r\n\r\nGet Our Hand-Picked Crypto Signals\r\nhttps://www.verifiedinvesting.com/vic\r\n\r\nLearn To Trade Like the Pros - Trading Master Class ”The Winning Trader Series”\r\nhttps://www.verifiedinvesting.com/track-master-trader-bundle-gareth\r\n\r\nFollow Gareth👇🏼\r\nTwitter\r\nhttps://twitter.com/GarethSoloway\r\n\r\nInstagram\r\nhttps://www.instagram.com/garethsoloway/\r\n\r\nTikTok\r\nhttps://www.tiktok.com/@verified_investing\r\n\r\nFacebook Page\r\nhttps://www.facebook.com/garethsolowayITMS\r\n\r\nLinkedIn\r\nhttps://www.linkedin.com/in/garethsoloway/\r\n\r\nTradingview\r\nhttps://www.tradingview.com/u/GarethSolowayOfficial/#published-charts\r\n\r\nAffiliates👇🏼\r\nTradingview Sign Up\r\nhttps://www.tradingview.com/?offer_id=10&aff_id=30204\r\n\r\nCoinbase Sign Up\r\nhttps://coinbase-consumer.sjv.io/doP07M\r\n\r\nKitco Metals On The Move\r\nhttps://www.kitco.com/services/metals-on-the-move.html",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kRyJzm5nYJQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kRyJzm5nYJQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kRyJzm5nYJQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kRyJzm5nYJQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kRyJzm5nYJQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gareth Soloway",
+          "playlistId": "PL6iyqX0myJ2GvKOpg5kPsqReuehAfzRgs",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kRyJzm5nYJQ"
+          },
+          "videoOwnerChannelTitle": "Gareth Soloway",
+          "videoOwnerChannelId": "UCwTu6kD2igaLMpxswtcdxlg"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 132,
+      "resultsPerPage": 2
+    }
+  }
+  
